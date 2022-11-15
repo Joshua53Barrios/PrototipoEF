@@ -1,0 +1,12 @@
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\bin\Debug\CapaModuloNomina.dll
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\bin\Debug\CapaModuloNomina.pdb
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.dll
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaModuloNomina\bin\Debug\CapaModuloNomina.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaModuloNomina\bin\Debug\CapaModuloNomina.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaModuloNomina\obj\Debug\CapaModuloNomina.pdb

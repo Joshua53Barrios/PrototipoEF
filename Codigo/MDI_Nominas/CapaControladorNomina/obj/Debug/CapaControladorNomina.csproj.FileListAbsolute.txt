@@ -1,0 +1,18 @@
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaControladorNomina.dll
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaControladorNomina.pdb
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaModuloNomina.dll
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaModuloNomina.pdb
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.csproj.CopyComplete
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.dll
+C:\Users\50231\OneDrive\Escritorio\Bancos Final\proyectofinalasis222022\Codigo\Modulos\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaControladorNomina.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaControladorNomina.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaModuloNomina.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaModuloNomina.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.csproj.CopyComplete
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.pdb
