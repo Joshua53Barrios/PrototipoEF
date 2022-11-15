@@ -84,6 +84,7 @@ namespace Vista_Seguridad
             this.btlogistica.Text = "LOGISTICA";
             this.btlogistica.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btlogistica.UseVisualStyleBackColor = false;
+            this.btlogistica.Visible = false;
             this.btlogistica.Click += new System.EventHandler(this.btlogistica_Click);
             // 
             // btncompras
@@ -104,6 +105,7 @@ namespace Vista_Seguridad
             this.btncompras.Text = "COMPRAS";
             this.btncompras.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btncompras.UseVisualStyleBackColor = false;
+            this.btncompras.Visible = false;
             this.btncompras.Click += new System.EventHandler(this.btncompras_Click);
             // 
             // btnProduccion
@@ -124,6 +126,7 @@ namespace Vista_Seguridad
             this.btnProduccion.Text = "PRODUCCION";
             this.btnProduccion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnProduccion.UseVisualStyleBackColor = false;
+            this.btnProduccion.Visible = false;
             this.btnProduccion.Click += new System.EventHandler(this.btnProduccion_Click);
             // 
             // btnnominas
@@ -164,6 +167,7 @@ namespace Vista_Seguridad
             this.btnBancos.Text = "BANCOS";
             this.btnBancos.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnBancos.UseVisualStyleBackColor = false;
+            this.btnBancos.Visible = false;
             this.btnBancos.Click += new System.EventHandler(this.btnBancos_Click);
             // 
             // btnContabilidad
@@ -184,6 +188,7 @@ namespace Vista_Seguridad
             this.btnContabilidad.Text = "CONTABILIDAD";
             this.btnContabilidad.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnContabilidad.UseVisualStyleBackColor = false;
+            this.btnContabilidad.Visible = false;
             this.btnContabilidad.Click += new System.EventHandler(this.btnContabilidad_Click);
             // 
             // panelSideMenu
