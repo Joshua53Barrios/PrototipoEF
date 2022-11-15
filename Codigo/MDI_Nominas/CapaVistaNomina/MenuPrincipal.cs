@@ -32,7 +32,6 @@ namespace CapaVistaNomina
 
             cnseg.getAccesoApp(6101, apps[7]);
             cnseg.getAccesoApp(6102, apps[8]);
-            cnseg.getAccesoApp(6103, apps[9]);
 
             
 
@@ -175,6 +174,10 @@ namespace CapaVistaNomina
 
         private void btnSegNomina_Click(object sender, EventArgs e)
         {
+            Bitacora b = new Bitacora();
+            b.MdiParent = this;
+            b.Show();
+            pictureBox1.Visible = false;
             hideSubMenu();
         }
 

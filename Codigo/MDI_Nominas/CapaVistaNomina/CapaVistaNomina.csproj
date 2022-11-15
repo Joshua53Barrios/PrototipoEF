@@ -67,6 +67,12 @@
     <Compile Include="AsignacionNominas.Designer.cs">
       <DependentUpon>AsignacionNominas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Bitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bitacora.Designer.cs">
+      <DependentUpon>Bitacora.cs</DependentUpon>
+    </Compile>
     <Compile Include="Concepto.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -125,6 +131,9 @@
   <ItemGroup>
     <EmbeddedResource Include="AsignacionNominas.resx">
       <DependentUpon>AsignacionNominas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bitacora.resx">
+      <DependentUpon>Bitacora.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Concepto.resx">
       <DependentUpon>Concepto.cs</DependentUpon>

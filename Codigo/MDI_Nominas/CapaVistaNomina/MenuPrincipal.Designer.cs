@@ -131,6 +131,7 @@ namespace CapaVistaNomina
             this.btnAyuda.Text = "AYUDA";
             this.btnAyuda.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnAyuda.UseVisualStyleBackColor = false;
+            this.btnAyuda.Visible = false;
             this.btnAyuda.Click += new System.EventHandler(this.btnAyuda_Click);
             // 
             // panelSeguridad
@@ -157,7 +158,7 @@ namespace CapaVistaNomina
             this.btnSegNomina.Padding = new System.Windows.Forms.Padding(85, 0, 0, 0);
             this.btnSegNomina.Size = new System.Drawing.Size(298, 43);
             this.btnSegNomina.TabIndex = 1;
-            this.btnSegNomina.Text = "Seguridad Nomina";
+            this.btnSegNomina.Text = "Bitacora ";
             this.btnSegNomina.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSegNomina.UseVisualStyleBackColor = false;
             this.btnSegNomina.Click += new System.EventHandler(this.btnSegNomina_Click);
@@ -176,7 +177,7 @@ namespace CapaVistaNomina
             this.btnSeguridad.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnSeguridad.Size = new System.Drawing.Size(298, 48);
             this.btnSeguridad.TabIndex = 6;
-            this.btnSeguridad.Text = "SEGURIDAD";
+            this.btnSeguridad.Text = "Bitacoras";
             this.btnSeguridad.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSeguridad.UseVisualStyleBackColor = false;
             this.btnSeguridad.Click += new System.EventHandler(this.btnSeguridad_Click);
@@ -224,7 +225,7 @@ namespace CapaVistaNomina
             this.btnReportes.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnReportes.Size = new System.Drawing.Size(298, 48);
             this.btnReportes.TabIndex = 4;
-            this.btnReportes.Text = "REPORTES";
+            this.btnReportes.Text = "Reportes";
             this.btnReportes.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnReportes.UseVisualStyleBackColor = false;
             this.btnReportes.Click += new System.EventHandler(this.btnReportes_Click);
@@ -291,7 +292,7 @@ namespace CapaVistaNomina
             this.btnProcesos.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnProcesos.Size = new System.Drawing.Size(298, 48);
             this.btnProcesos.TabIndex = 2;
-            this.btnProcesos.Text = "PROCESOS";
+            this.btnProcesos.Text = "Procesos";
             this.btnProcesos.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnProcesos.UseVisualStyleBackColor = false;
             this.btnProcesos.Click += new System.EventHandler(this.btnProcesos_Click);
@@ -445,7 +446,7 @@ namespace CapaVistaNomina
             this.MinimumSize = new System.Drawing.Size(939, 613);
             this.Name = "MenuPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "MenuPrincipal";
+            this.Text = "Menu 0901-19-3510";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MenuPrincipal_FormClosing);
             this.panelMenu.ResumeLayout(false);
