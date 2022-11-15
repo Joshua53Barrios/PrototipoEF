@@ -1,0 +1,6 @@
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb

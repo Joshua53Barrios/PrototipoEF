@@ -1,0 +1,16 @@
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb

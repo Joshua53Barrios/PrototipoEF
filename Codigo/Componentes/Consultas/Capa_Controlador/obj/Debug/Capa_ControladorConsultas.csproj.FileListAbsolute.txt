@@ -1,0 +1,9 @@
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.pdb
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CopyComplete
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.dll
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.pdb
