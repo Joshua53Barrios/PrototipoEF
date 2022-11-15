@@ -169,7 +169,7 @@ namespace CapaVistaNomina
             this.btnSeguridad.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnSeguridad.FlatAppearance.BorderSize = 0;
             this.btnSeguridad.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSeguridad.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold);
+            this.btnSeguridad.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSeguridad.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btnSeguridad.Location = new System.Drawing.Point(0, 552);
             this.btnSeguridad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
@@ -217,7 +217,7 @@ namespace CapaVistaNomina
             this.btnReportes.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnReportes.FlatAppearance.BorderSize = 0;
             this.btnReportes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReportes.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold);
+            this.btnReportes.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReportes.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btnReportes.Location = new System.Drawing.Point(0, 459);
             this.btnReportes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
@@ -284,7 +284,7 @@ namespace CapaVistaNomina
             this.btnProcesos.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnProcesos.FlatAppearance.BorderSize = 0;
             this.btnProcesos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnProcesos.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold);
+            this.btnProcesos.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnProcesos.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btnProcesos.Location = new System.Drawing.Point(0, 326);
             this.btnProcesos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);

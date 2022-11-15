@@ -196,7 +196,7 @@ namespace CapaVistaNomina
             this.dataGridView4.RowTemplate.Height = 24;
             this.dataGridView4.Size = new System.Drawing.Size(389, 174);
             this.dataGridView4.TabIndex = 0;
-            this.dataGridView4.Tag = "puesto";
+            this.dataGridView4.Tag = "concepto";
             this.dataGridView4.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView4_CellContentClick);
             // 
             // textBox4
