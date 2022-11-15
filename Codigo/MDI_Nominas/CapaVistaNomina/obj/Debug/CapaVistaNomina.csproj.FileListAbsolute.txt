@@ -165,3 +165,4 @@ C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaVistaNomin
 C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaVistaNomina\obj\Debug\CapaVistaNomina.empleados.resources
 C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaVistaNomina\obj\Debug\CapaVistaNomina.AsignacionNominas.resources
 C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaVistaNomina\obj\Debug\CapaVistaNomina.EmpleadosR.resources
+C:\Users\50231\OneDrive\Escritorio\PrototipoEF\Codigo\MDI_Nominas\CapaVistaNomina\obj\Debug\CapaVistaNomina.Bitacora.resources
